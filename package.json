@@ -1,6 +1,6 @@
 {
 	"name": "verror-2",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "verror that also works for browsers and react-native",
 	"main": "./lib/verror.js",
 	"typings": "./lib/verror.d.ts",
