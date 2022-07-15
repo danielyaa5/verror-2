@@ -6,7 +6,7 @@
 	"typings": "./lib/verror.d.ts",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/danielyaa5/verror2"
+		"url": "https://github.com/danielyaa5/verror-2"
 	},
 	"dependencies": {
 		"inherits": "^2.0.4",
