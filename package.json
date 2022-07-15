@@ -1,8 +1,9 @@
 {
-	"name": "verror2",
+	"name": "verror-2",
 	"version": "0.0.1",
 	"description": "verror that also works for browsers and react-native",
 	"main": "./lib/verror.js",
+	"typings": "./lib/verror.d.ts",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/danielyaa5/verror2"
